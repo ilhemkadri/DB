@@ -11,7 +11,6 @@ Content:
   - Use cases and flexibility
   - Pros and cons of each
 
-**Visual:** Icons or images representing MongoDB and SQL databases side by side.
 
 ---
 
@@ -34,7 +33,6 @@ Content:
              |----|-------|-----|----------------|
              | 1  | John  | 30  | JavaScript, Python |
 
-**Visual:** Diagram illustrating document (MongoDB) vs table (SQL).
 
 ---
 
@@ -50,7 +48,6 @@ Content:
 | **Query Language**   | MongoDB Query Language (MQL)       | SQL (Structured Query Language)   |
 | **Transactions**     | Limited ACID support               | Full ACID compliance              |
 
-**Visual:** Highlighted table comparison with icons.
 
 ---
 
@@ -72,7 +69,6 @@ Content:
   - Applications requiring complex joins.
 - Examples: Bank databases, e-commerce platforms.
 
-**Visual:** Flowchart or decision tree for database selection.
 
 ---
 
